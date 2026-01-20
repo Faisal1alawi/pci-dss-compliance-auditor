@@ -1,0 +1,10 @@
+Summary of Similar Existing Projects
+
+1. OpenSCAP Compliance Scanner
+OpenSCAP is an open-source security compliance and auditing tool used to scan Linux systems against security standards. It supports automated compliance checks and generates detailed reports to identify system misconfigurations and security weaknesses.
+
+2. Lynis Security Auditing Tool
+Lynis is a security auditing tool for Unix-based systems. It performs automated system scans, evaluates security configurations, and helps identify weaknesses related to compliance and system hardening.
+
+3. Nessus Compliance Auditing
+Nessus is a widely used security assessment tool that provides automated compliance auditing features. It helps organizations detect security policy violations, misconfigurations, and compliance-related risks through automated scanning.
