@@ -1,0 +1,6 @@
+Week 1: Research and Requirement Analysis
+
+During Week 1, the project topic was selected and initial research was conducted.
+The project requirements were identified and reviewed.
+A GitHub repository was created to manage the project files.
+Basic Git commands such as add, commit, push, and pull were practiced successfully.
