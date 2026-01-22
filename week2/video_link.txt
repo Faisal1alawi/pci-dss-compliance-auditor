@@ -1,0 +1,6 @@
+Week 2 Project Demonstration Video:
+
+https://youtu.be/7ghSHsihksM
+
+This video shows how the PCI DSS compliance scanning script works on Kali Linux.
+It demonstrates connecting to the system, running the security checks, and generating the report.
